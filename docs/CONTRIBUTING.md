@@ -2,6 +2,7 @@
 
 ## Code style
 - TypeScript strict.
+- Always write concise docstrings for the function being implemented
 - Prefer explicit types and small functions.
 - Avoid `any`. If unavoidable, isolate it at boundaries and justify.
 - Keep modules cohesive and testable.
